@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> I'm Alpha Martinez! <img src="https://media.tenor.com/images/de923e0e137e1cbbc3cdbac9081c382e/tenor.gif" width="50"></h2>
+<h2> I'm Alpha Martinez! <img src="https://media.tenor.com/images/de923e0e137e1cbbc3cdbac9081c382e/tenor.gif" width="80"></h2>
 
 <!--
 **alpha-martinez/alpha-martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
