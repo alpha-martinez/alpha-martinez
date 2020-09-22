@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://media.tenor.com/images/de923e0e137e1cbbc3cdbac9081c382e/tenor.gif" width="80">
+# Hi there 👋 <img src="https://media.tenor.com/images/de923e0e137e1cbbc3cdbac9081c382e/tenor.gif" width="80">
 <img src="https://github-readme-stats.vercel.app/api?username=alpha-martinez&theme=react&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-martinez&layout=compact&theme=react" />
 
 
